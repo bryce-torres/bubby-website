@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<p>My first hosted webpage. Hi bubby!!!</p>
-
-</body>
-</html>
