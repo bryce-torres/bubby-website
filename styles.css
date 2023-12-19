@@ -1,6 +1,13 @@
 body {
   background-color: #E69A8DFF;
 }
+
 h1,h2,h3,h4,h5,h6,p {
   color: #5F4B8BFF;
+  text-align:center;
+  font-family: verdana;
+}
+
+.center {
+  align:center;
 }
